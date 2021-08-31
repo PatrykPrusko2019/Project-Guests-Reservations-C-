@@ -24,3 +24,7 @@ Tutaj dodaje SQL, backup bazy danych
 [sql.zip](https://github.com/PatrykPrusko2019/Project-Guests-Reservations-C-/files/7084623/sql.zip)
 
 
+uruchomienie aplikacji:
+Add-Migration w konsoli
+
+
