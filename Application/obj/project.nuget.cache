@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0XTIdWFtJkUFNoHKIdXCFHdZ01HiLZL1Y2rZA83RZol55pYwoKtmfq+XBFlCZOtPEsCErdVYrKwYrF6b24zHbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carnal\\source\\repos\\Web_Api\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carnal\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\carnal\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\carnal\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
